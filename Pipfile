@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "*"
+dotenv = "*"
+djangorestframework = "*"
+watchfiles = "==0.22.0"
+black = "==24.8.0"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
