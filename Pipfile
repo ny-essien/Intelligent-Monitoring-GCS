@@ -7,10 +7,10 @@ name = "pypi"
 django = "*"
 dotenv = "*"
 djangorestframework = "*"
-watchfiles = "==0.22.0"
-black = "==24.8.0"
 
 [dev-packages]
+watchfiles = "==0.22.0"
+black = "==24.8.0"
 
 [requires]
 python_version = "3.11"
